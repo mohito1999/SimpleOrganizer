@@ -1,5 +1,5 @@
 body {
-	background: #04A1BF;
+	background: #000000;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -21,16 +21,16 @@ p {
 
 #first {
 	margin-top: 10px;
-	color: #FFCD5D;
+	color: #ffffff;
 }
 
 #second {
-	color: #51DF70;
+	color: #ffffff;
 
 }
 
 #third {
-	color: #025F70;
+	color: #ffffff;
 	margin-bottom: 30px;
 }
 
@@ -39,8 +39,8 @@ p {
 	border: none;
 	padding: 5px 15px;
 	border-radius: 5px;
-	color: #04A1BF;
-	background-color: #025F70;
+	color: #ffffff;
+	background-color: #ffffff;
 	transition: all 0.75s ease;
 	-webkit-transition: all 0.75s ease;
 	-moz-transition: all 0.75s ease;
@@ -50,8 +50,8 @@ p {
 }
 
 #enter:hover{
-	background-color: #02798F;
-	color: #FFCD5D;
+	background-color: #ffffff;
+	color: #ffffff;
 }
 
 ul {
@@ -63,13 +63,13 @@ ul {
 li {
 	list-style: none;
 	padding: 10px 20px;
-	color: #ffffff;
+	color: #000000;
 	text-transform: capitalize;
 	font-weight: 600;
-	border: 2px solid #025f70;
+	border: 2px solid #ffffff;
 	border-radius: 5px;
 	margin-bottom: 10px;
-	background: #4EB9CD;
+	background: #ffffff;
 	transition: all 0.75s ease;
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
@@ -78,7 +78,7 @@ li {
 }
 
 li:hover {
-	background: #76CFE0;
+	background: #ffffff;
 }
 
 li > button {
@@ -86,7 +86,7 @@ li > button {
 	background: none;
 	border: none;
 	float: right;
-	color: #025f70;
+	color: #ffffff;
 	font-weight: 800;
 }
 
@@ -99,8 +99,8 @@ input {
 
 
 .done {
-	background: #51DF70 !important;
-	color: #00891E;
+	background: #000000 !important;
+	color: #ffffff;
 }
 
 .delete {
